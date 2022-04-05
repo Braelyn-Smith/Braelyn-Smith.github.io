@@ -1,0 +1,52 @@
+h1 {
+    color:rgb(255, 80, 80); 
+}
+
+p {
+    color:rgb(247, 247, 247); 
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+    padding-left: 0; 
+    width: 50%; 
+    margin: auto; 
+}
+
+ul li {
+    border: 3px outset;
+    display: inline-block; 
+}
+
+img {
+    display: block;
+    width: 25%; 
+    margin: auto; 
+}
+
+#first {
+    margin-left: 5%;
+}   
+
+#next {
+    margin-left: 20%;
+}
+
+#third {
+    margin-left: 40%;
+}
+
+#fourth {
+    margin-left: 60%;
+}
+
+body {
+    background-color:rgba(91, 119, 89, 0.87);
+}
+
+class."big picture" {
+    width: 70%;
+    margin: auto; 
+    display: block;
+}
